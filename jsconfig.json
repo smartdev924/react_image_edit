@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "allowJs": true,
+    "checkJs": true,
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "module": "ESNext"
+  }
+}
